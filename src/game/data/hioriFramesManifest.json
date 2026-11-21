@@ -1,0 +1,1042 @@
+{
+  "character": "hiori",
+  "sourceImage": "public/assets/aistudio/image_22a1a94b.png",
+  "animations": {
+    "idle": {
+      "frameWidth": 103,
+      "frameHeight": 119,
+      "frameCount": 6,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/idle/idle_01.png",
+        "/assets/characters/hiori/idle/idle_02.png",
+        "/assets/characters/hiori/idle/idle_03.png",
+        "/assets/characters/hiori/idle/idle_04.png",
+        "/assets/characters/hiori/idle/idle_05.png",
+        "/assets/characters/hiori/idle/idle_06.png"
+      ],
+      "sourcePanel": {
+        "x0": 402,
+        "y0": 44,
+        "x1": 902,
+        "y1": 168
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/idle/idle_01.png",
+          "sourceBounds": {
+            "x": 402,
+            "y": 44,
+            "width": 82,
+            "height": 125
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/idle/idle_02.png",
+          "sourceBounds": {
+            "x": 484,
+            "y": 44,
+            "width": 85,
+            "height": 125
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/idle/idle_03.png",
+          "sourceBounds": {
+            "x": 569,
+            "y": 44,
+            "width": 91,
+            "height": 125
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/idle/idle_04.png",
+          "sourceBounds": {
+            "x": 660,
+            "y": 44,
+            "width": 83,
+            "height": 125
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/idle/idle_05.png",
+          "sourceBounds": {
+            "x": 743,
+            "y": 44,
+            "width": 82,
+            "height": 125
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/idle/idle_06.png",
+          "sourceBounds": {
+            "x": 825,
+            "y": 44,
+            "width": 78,
+            "height": 125
+          }
+        }
+      ]
+    },
+    "walk": {
+      "frameWidth": 122,
+      "frameHeight": 115,
+      "frameCount": 7,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/walk/walk_01.png",
+        "/assets/characters/hiori/walk/walk_02.png",
+        "/assets/characters/hiori/walk/walk_03.png",
+        "/assets/characters/hiori/walk/walk_04.png",
+        "/assets/characters/hiori/walk/walk_05.png",
+        "/assets/characters/hiori/walk/walk_06.png",
+        "/assets/characters/hiori/walk/walk_07.png"
+      ],
+      "sourcePanel": {
+        "x0": 922,
+        "y0": 44,
+        "x1": 1522,
+        "y1": 168
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/walk/walk_01.png",
+          "sourceBounds": {
+            "x": 922,
+            "y": 44,
+            "width": 84,
+            "height": 125
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/walk/walk_02.png",
+          "sourceBounds": {
+            "x": 1006,
+            "y": 44,
+            "width": 75,
+            "height": 125
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/walk/walk_03.png",
+          "sourceBounds": {
+            "x": 1081,
+            "y": 44,
+            "width": 78,
+            "height": 125
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/walk/walk_04.png",
+          "sourceBounds": {
+            "x": 1159,
+            "y": 44,
+            "width": 77,
+            "height": 125
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/walk/walk_05.png",
+          "sourceBounds": {
+            "x": 1236,
+            "y": 44,
+            "width": 93,
+            "height": 125
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/walk/walk_06.png",
+          "sourceBounds": {
+            "x": 1329,
+            "y": 44,
+            "width": 86,
+            "height": 125
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/walk/walk_07.png",
+          "sourceBounds": {
+            "x": 1415,
+            "y": 44,
+            "width": 108,
+            "height": 125
+          }
+        }
+      ]
+    },
+    "run": {
+      "frameWidth": 129,
+      "frameHeight": 90,
+      "frameCount": 6,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/run/run_01.png",
+        "/assets/characters/hiori/run/run_02.png",
+        "/assets/characters/hiori/run/run_03.png",
+        "/assets/characters/hiori/run/run_04.png",
+        "/assets/characters/hiori/run/run_05.png",
+        "/assets/characters/hiori/run/run_06.png"
+      ],
+      "sourcePanel": {
+        "x0": 12,
+        "y0": 282,
+        "x1": 682,
+        "y1": 371
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/run/run_01.png",
+          "sourceBounds": {
+            "x": 12,
+            "y": 282,
+            "width": 105,
+            "height": 90
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/run/run_02.png",
+          "sourceBounds": {
+            "x": 117,
+            "y": 282,
+            "width": 115,
+            "height": 90
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/run/run_03.png",
+          "sourceBounds": {
+            "x": 232,
+            "y": 282,
+            "width": 116,
+            "height": 90
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/run/run_04.png",
+          "sourceBounds": {
+            "x": 348,
+            "y": 282,
+            "width": 109,
+            "height": 90
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/run/run_05.png",
+          "sourceBounds": {
+            "x": 457,
+            "y": 282,
+            "width": 117,
+            "height": 90
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/run/run_06.png",
+          "sourceBounds": {
+            "x": 574,
+            "y": 282,
+            "width": 109,
+            "height": 90
+          }
+        }
+      ]
+    },
+    "jump": {
+      "frameWidth": 103,
+      "frameHeight": 104,
+      "frameCount": 5,
+      "baselineAnchored": false,
+      "frames": [
+        "/assets/characters/hiori/jump/jump_01.png",
+        "/assets/characters/hiori/jump/jump_02.png",
+        "/assets/characters/hiori/jump/jump_03.png",
+        "/assets/characters/hiori/jump/jump_04.png",
+        "/assets/characters/hiori/jump/jump_05.png"
+      ],
+      "sourcePanel": {
+        "x0": 706,
+        "y0": 254,
+        "x1": 1172,
+        "y1": 371
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/jump/jump_01.png",
+          "sourceBounds": {
+            "x": 706,
+            "y": 254,
+            "width": 99,
+            "height": 118
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/jump/jump_02.png",
+          "sourceBounds": {
+            "x": 805,
+            "y": 254,
+            "width": 88,
+            "height": 118
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/jump/jump_03.png",
+          "sourceBounds": {
+            "x": 893,
+            "y": 254,
+            "width": 95,
+            "height": 118
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/jump/jump_04.png",
+          "sourceBounds": {
+            "x": 988,
+            "y": 254,
+            "width": 92,
+            "height": 118
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/jump/jump_05.png",
+          "sourceBounds": {
+            "x": 1080,
+            "y": 254,
+            "width": 93,
+            "height": 118
+          }
+        }
+      ]
+    },
+    "fall": {
+      "frameWidth": 87,
+      "frameHeight": 129,
+      "frameCount": 4,
+      "baselineAnchored": false,
+      "frames": [
+        "/assets/characters/hiori/fall/fall_01.png",
+        "/assets/characters/hiori/fall/fall_02.png",
+        "/assets/characters/hiori/fall/fall_03.png",
+        "/assets/characters/hiori/fall/fall_04.png"
+      ],
+      "sourcePanel": {
+        "x0": 1193,
+        "y0": 254,
+        "x1": 1520,
+        "y1": 371
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/fall/fall_01.png",
+          "sourceBounds": {
+            "x": 1193,
+            "y": 254,
+            "width": 79,
+            "height": 118
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/fall/fall_02.png",
+          "sourceBounds": {
+            "x": 1272,
+            "y": 254,
+            "width": 84,
+            "height": 118
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/fall/fall_03.png",
+          "sourceBounds": {
+            "x": 1356,
+            "y": 254,
+            "width": 81,
+            "height": 118
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/fall/fall_04.png",
+          "sourceBounds": {
+            "x": 1437,
+            "y": 254,
+            "width": 83,
+            "height": 118
+          }
+        }
+      ]
+    },
+    "land": {
+      "frameWidth": 129,
+      "frameHeight": 83,
+      "frameCount": 4,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/land/land_01.png",
+        "/assets/characters/hiori/land/land_02.png",
+        "/assets/characters/hiori/land/land_03.png",
+        "/assets/characters/hiori/land/land_04.png"
+      ],
+      "sourcePanel": {
+        "x0": 12,
+        "y0": 428,
+        "x1": 404,
+        "y1": 517
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/land/land_01.png",
+          "sourceBounds": {
+            "x": 12,
+            "y": 428,
+            "width": 115,
+            "height": 90
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/land/land_02.png",
+          "sourceBounds": {
+            "x": 127,
+            "y": 428,
+            "width": 89,
+            "height": 90
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/land/land_03.png",
+          "sourceBounds": {
+            "x": 216,
+            "y": 428,
+            "width": 79,
+            "height": 90
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/land/land_04.png",
+          "sourceBounds": {
+            "x": 295,
+            "y": 428,
+            "width": 110,
+            "height": 90
+          }
+        }
+      ]
+    },
+    "attack1": {
+      "frameWidth": 225,
+      "frameHeight": 97,
+      "frameCount": 6,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/attacks/attack1/attack1_01.png",
+        "/assets/characters/hiori/attacks/attack1/attack1_02.png",
+        "/assets/characters/hiori/attacks/attack1/attack1_03.png",
+        "/assets/characters/hiori/attacks/attack1/attack1_04.png",
+        "/assets/characters/hiori/attacks/attack1/attack1_05.png",
+        "/assets/characters/hiori/attacks/attack1/attack1_06.png"
+      ],
+      "sourcePanel": {
+        "x0": 424,
+        "y0": 428,
+        "x1": 1520,
+        "y1": 518
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/attacks/attack1/attack1_01.png",
+          "sourceBounds": {
+            "x": 424,
+            "y": 428,
+            "width": 155,
+            "height": 91
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack1/attack1_02.png",
+          "sourceBounds": {
+            "x": 579,
+            "y": 428,
+            "width": 213,
+            "height": 91
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack1/attack1_03.png",
+          "sourceBounds": {
+            "x": 792,
+            "y": 428,
+            "width": 181,
+            "height": 91
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack1/attack1_04.png",
+          "sourceBounds": {
+            "x": 973,
+            "y": 428,
+            "width": 182,
+            "height": 91
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack1/attack1_05.png",
+          "sourceBounds": {
+            "x": 1155,
+            "y": 428,
+            "width": 183,
+            "height": 91
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack1/attack1_06.png",
+          "sourceBounds": {
+            "x": 1338,
+            "y": 428,
+            "width": 183,
+            "height": 91
+          }
+        }
+      ]
+    },
+    "attack2": {
+      "frameWidth": 155,
+      "frameHeight": 109,
+      "frameCount": 3,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/attacks/attack2/attack2_01.png",
+        "/assets/characters/hiori/attacks/attack2/attack2_02.png",
+        "/assets/characters/hiori/attacks/attack2/attack2_03.png"
+      ],
+      "sourcePanel": {
+        "x0": 12,
+        "y0": 578,
+        "x1": 468,
+        "y1": 680
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/attacks/attack2/attack2_01.png",
+          "sourceBounds": {
+            "x": 12,
+            "y": 578,
+            "width": 140,
+            "height": 103
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack2/attack2_02.png",
+          "sourceBounds": {
+            "x": 152,
+            "y": 578,
+            "width": 153,
+            "height": 103
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack2/attack2_03.png",
+          "sourceBounds": {
+            "x": 305,
+            "y": 578,
+            "width": 164,
+            "height": 103
+          }
+        }
+      ]
+    },
+    "attack3": {
+      "frameWidth": 147,
+      "frameHeight": 106,
+      "frameCount": 4,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/attacks/attack3/attack3_01.png",
+        "/assets/characters/hiori/attacks/attack3/attack3_02.png",
+        "/assets/characters/hiori/attacks/attack3/attack3_03.png",
+        "/assets/characters/hiori/attacks/attack3/attack3_04.png"
+      ],
+      "sourcePanel": {
+        "x0": 488,
+        "y0": 578,
+        "x1": 1018,
+        "y1": 680
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/attacks/attack3/attack3_01.png",
+          "sourceBounds": {
+            "x": 488,
+            "y": 578,
+            "width": 134,
+            "height": 103
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack3/attack3_02.png",
+          "sourceBounds": {
+            "x": 622,
+            "y": 578,
+            "width": 140,
+            "height": 103
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack3/attack3_03.png",
+          "sourceBounds": {
+            "x": 762,
+            "y": 578,
+            "width": 139,
+            "height": 103
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack3/attack3_04.png",
+          "sourceBounds": {
+            "x": 901,
+            "y": 578,
+            "width": 118,
+            "height": 103
+          }
+        }
+      ]
+    },
+    "attack4": {
+      "frameWidth": 172,
+      "frameHeight": 90,
+      "frameCount": 4,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/attacks/attack4/attack4_01.png",
+        "/assets/characters/hiori/attacks/attack4/attack4_02.png",
+        "/assets/characters/hiori/attacks/attack4/attack4_03.png",
+        "/assets/characters/hiori/attacks/attack4/attack4_04.png"
+      ],
+      "sourcePanel": {
+        "x0": 1038,
+        "y0": 578,
+        "x1": 1520,
+        "y1": 680
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/attacks/attack4/attack4_01.png",
+          "sourceBounds": {
+            "x": 1038,
+            "y": 578,
+            "width": 113,
+            "height": 103
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack4/attack4_02.png",
+          "sourceBounds": {
+            "x": 1151,
+            "y": 578,
+            "width": 112,
+            "height": 103
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack4/attack4_03.png",
+          "sourceBounds": {
+            "x": 1263,
+            "y": 578,
+            "width": 100,
+            "height": 103
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/attacks/attack4/attack4_04.png",
+          "sourceBounds": {
+            "x": 1363,
+            "y": 578,
+            "width": 158,
+            "height": 103
+          }
+        }
+      ]
+    },
+    "transformation": {
+      "frameWidth": 156,
+      "frameHeight": 120,
+      "frameCount": 5,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/special/transformation/transformation_01.png",
+        "/assets/characters/hiori/special/transformation/transformation_02.png",
+        "/assets/characters/hiori/special/transformation/transformation_03.png",
+        "/assets/characters/hiori/special/transformation/transformation_04.png",
+        "/assets/characters/hiori/special/transformation/transformation_05.png"
+      ],
+      "sourcePanel": {
+        "x0": 14,
+        "y0": 740,
+        "x1": 562,
+        "y1": 853
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/special/transformation/transformation_01.png",
+          "sourceBounds": {
+            "x": 14,
+            "y": 740,
+            "width": 72,
+            "height": 114
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/special/transformation/transformation_02.png",
+          "sourceBounds": {
+            "x": 86,
+            "y": 740,
+            "width": 88,
+            "height": 114
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/special/transformation/transformation_03.png",
+          "sourceBounds": {
+            "x": 174,
+            "y": 740,
+            "width": 112,
+            "height": 114
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/special/transformation/transformation_04.png",
+          "sourceBounds": {
+            "x": 286,
+            "y": 740,
+            "width": 132,
+            "height": 114
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/special/transformation/transformation_05.png",
+          "sourceBounds": {
+            "x": 418,
+            "y": 740,
+            "width": 144,
+            "height": 114
+          }
+        }
+      ]
+    },
+    "shadow_dash": {
+      "frameWidth": 151,
+      "frameHeight": 112,
+      "frameCount": 4,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/special/shadow_dash/shadow_dash_01.png",
+        "/assets/characters/hiori/special/shadow_dash/shadow_dash_02.png",
+        "/assets/characters/hiori/special/shadow_dash/shadow_dash_03.png",
+        "/assets/characters/hiori/special/shadow_dash/shadow_dash_04.png"
+      ],
+      "sourcePanel": {
+        "x0": 583,
+        "y0": 740,
+        "x1": 1055,
+        "y1": 853
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/special/shadow_dash/shadow_dash_01.png",
+          "sourceBounds": {
+            "x": 583,
+            "y": 740,
+            "width": 113,
+            "height": 114
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/special/shadow_dash/shadow_dash_02.png",
+          "sourceBounds": {
+            "x": 696,
+            "y": 740,
+            "width": 112,
+            "height": 114
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/special/shadow_dash/shadow_dash_03.png",
+          "sourceBounds": {
+            "x": 808,
+            "y": 740,
+            "width": 111,
+            "height": 114
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/special/shadow_dash/shadow_dash_04.png",
+          "sourceBounds": {
+            "x": 919,
+            "y": 740,
+            "width": 137,
+            "height": 114
+          }
+        }
+      ]
+    },
+    "shadow_projectile": {
+      "frameWidth": 154,
+      "frameHeight": 101,
+      "frameCount": 4,
+      "baselineAnchored": false,
+      "frames": [
+        "/assets/characters/hiori/special/shadow_projectile/shadow_projectile_01.png",
+        "/assets/characters/hiori/special/shadow_projectile/shadow_projectile_02.png",
+        "/assets/characters/hiori/special/shadow_projectile/shadow_projectile_03.png",
+        "/assets/characters/hiori/special/shadow_projectile/shadow_projectile_04.png"
+      ],
+      "sourcePanel": {
+        "x0": 1075,
+        "y0": 740,
+        "x1": 1520,
+        "y1": 853
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/special/shadow_projectile/shadow_projectile_01.png",
+          "sourceBounds": {
+            "x": 1075,
+            "y": 740,
+            "width": 89,
+            "height": 114
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/special/shadow_projectile/shadow_projectile_02.png",
+          "sourceBounds": {
+            "x": 1164,
+            "y": 740,
+            "width": 120,
+            "height": 114
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/special/shadow_projectile/shadow_projectile_03.png",
+          "sourceBounds": {
+            "x": 1284,
+            "y": 740,
+            "width": 142,
+            "height": 114
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/special/shadow_projectile/shadow_projectile_04.png",
+          "sourceBounds": {
+            "x": 1426,
+            "y": 740,
+            "width": 94,
+            "height": 114
+          }
+        }
+      ]
+    },
+    "hurt": {
+      "frameWidth": 112,
+      "frameHeight": 80,
+      "frameCount": 4,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/hurt/hurt_01.png",
+        "/assets/characters/hiori/hurt/hurt_02.png",
+        "/assets/characters/hiori/hurt/hurt_03.png",
+        "/assets/characters/hiori/hurt/hurt_04.png"
+      ],
+      "sourcePanel": {
+        "x0": 12,
+        "y0": 912,
+        "x1": 328,
+        "y1": 995
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/hurt/hurt_01.png",
+          "sourceBounds": {
+            "x": 12,
+            "y": 912,
+            "width": 73,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/hurt/hurt_02.png",
+          "sourceBounds": {
+            "x": 85,
+            "y": 912,
+            "width": 69,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/hurt/hurt_03.png",
+          "sourceBounds": {
+            "x": 154,
+            "y": 912,
+            "width": 77,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/hurt/hurt_04.png",
+          "sourceBounds": {
+            "x": 231,
+            "y": 912,
+            "width": 98,
+            "height": 84
+          }
+        }
+      ]
+    },
+    "death": {
+      "frameWidth": 127,
+      "frameHeight": 90,
+      "frameCount": 5,
+      "baselineAnchored": true,
+      "frames": [
+        "/assets/characters/hiori/death/death_01.png",
+        "/assets/characters/hiori/death/death_02.png",
+        "/assets/characters/hiori/death/death_03.png",
+        "/assets/characters/hiori/death/death_04.png",
+        "/assets/characters/hiori/death/death_05.png"
+      ],
+      "sourcePanel": {
+        "x0": 350,
+        "y0": 912,
+        "x1": 812,
+        "y1": 995
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/death/death_01.png",
+          "sourceBounds": {
+            "x": 350,
+            "y": 912,
+            "width": 89,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/death/death_02.png",
+          "sourceBounds": {
+            "x": 439,
+            "y": 912,
+            "width": 115,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/death/death_03.png",
+          "sourceBounds": {
+            "x": 554,
+            "y": 912,
+            "width": 91,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/death/death_04.png",
+          "sourceBounds": {
+            "x": 645,
+            "y": 912,
+            "width": 74,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/death/death_05.png",
+          "sourceBounds": {
+            "x": 719,
+            "y": 912,
+            "width": 94,
+            "height": 84
+          }
+        }
+      ]
+    },
+    "effects": {
+      "frameWidth": 133,
+      "frameHeight": 96,
+      "frameCount": 7,
+      "baselineAnchored": false,
+      "frames": [
+        "/assets/characters/hiori/effects/effects_01.png",
+        "/assets/characters/hiori/effects/effects_02.png",
+        "/assets/characters/hiori/effects/effects_03.png",
+        "/assets/characters/hiori/effects/effects_04.png",
+        "/assets/characters/hiori/effects/effects_05.png",
+        "/assets/characters/hiori/effects/effects_06.png",
+        "/assets/characters/hiori/effects/effects_07.png"
+      ],
+      "sourcePanel": {
+        "x0": 836,
+        "y0": 912,
+        "x1": 1520,
+        "y1": 995
+      },
+      "frameMeta": [
+        {
+          "url": "/assets/characters/hiori/effects/effects_01.png",
+          "sourceBounds": {
+            "x": 836,
+            "y": 912,
+            "width": 108,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/effects/effects_02.png",
+          "sourceBounds": {
+            "x": 944,
+            "y": 912,
+            "width": 84,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/effects/effects_03.png",
+          "sourceBounds": {
+            "x": 1028,
+            "y": 912,
+            "width": 128,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/effects/effects_04.png",
+          "sourceBounds": {
+            "x": 1156,
+            "y": 912,
+            "width": 130,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/effects/effects_05.png",
+          "sourceBounds": {
+            "x": 1286,
+            "y": 912,
+            "width": 74,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/effects/effects_06.png",
+          "sourceBounds": {
+            "x": 1360,
+            "y": 912,
+            "width": 76,
+            "height": 84
+          }
+        },
+        {
+          "url": "/assets/characters/hiori/effects/effects_07.png",
+          "sourceBounds": {
+            "x": 1436,
+            "y": 912,
+            "width": 84,
+            "height": 84
+          }
+        }
+      ]
+    }
+  }
+}

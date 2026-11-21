@@ -1,0 +1,153 @@
+@import "tailwindcss";
+
+@layer base {
+:root {
+    --font-display: 'Outfit', system-ui, sans-serif;
+    --font-gothic: 'Cinzel', Georgia, serif;
+    --font-body: 'Plus Jakarta Sans', system-ui, sans-serif;
+    --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+  }
+
+  html,
+  body,
+  #root {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: var(--font-body);
+    background-color: #181b20;
+    color: #e6e9ef;
+  }
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-gothic {
+  font-family: var(--font-gothic);
+}
+
+.font-mono-tabular {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+.gothic-range {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #6d28d9 0%, #c4b5fd 100%);
+  border: 1px solid rgba(216, 180, 254, 0.45);
+  outline: none;
+}
+
+.gothic-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 999px;
+  background: radial-gradient(circle at 35% 35%, #ffffff 0%, #d8b4fe 65%, #7c3aed 100%);
+  border: 2px solid #f5f3ff;
+  box-shadow: 0 0 10px rgba(196, 181, 253, 0.75);
+  cursor: pointer;
+}
+
+.gothic-range::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 999px;
+  background: radial-gradient(circle at 35% 35%, #ffffff 0%, #d8b4fe 65%, #7c3aed 100%);
+  border: 2px solid #f5f3ff;
+  box-shadow: 0 0 10px rgba(196, 181, 253, 0.75);
+  cursor: pointer;
+}
+
+@keyframes hudWaveDrift {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes hudHurtShake {
+  0%,
+  100% {
+    transform: translate(0, 0);
+  }
+  20% {
+    transform: translate(-3px, 1.5px);
+  }
+  45% {
+    transform: translate(3px, -1.5px);
+  }
+  70% {
+    transform: translate(-2px, 1px);
+  }
+}
+
+@keyframes hudHealPulse {
+  0% {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+  45% {
+    transform: scale(1.1);
+    filter: brightness(1.45) drop-shadow(0 0 8px rgba(241, 245, 249, 0.85));
+  }
+  100% {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+}
+
+@keyframes hudCoinPop {
+  0% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1.16);
+    filter: drop-shadow(0 0 8px rgba(241, 245, 249, 0.85));
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes hudFullGlow {
+  0%,
+  100% {
+    opacity: 0.42;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.78;
+    transform: scale(1.06);
+  }
+}
+
+.hud-wave-animate {
+  animation: hudWaveDrift 3.6s linear infinite;
+}
+
+.hud-hurt-animate {
+  animation: hudHurtShake 0.28s ease-out;
+}
+
+.hud-heal-animate {
+  animation: hudHealPulse 0.42s ease-out;
+}
+
+.hud-coin-animate {
+  animation: hudCoinPop 0.38s ease-out;
+}
+
+.hud-full-glow {
+  animation: hudFullGlow 1.9s ease-in-out infinite;
+}

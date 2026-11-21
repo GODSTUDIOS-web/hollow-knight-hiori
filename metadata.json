@@ -1,0 +1,6 @@
+{
+  "name": "Hollow Knight: Hiori",
+  "description": "Protótipo técnico de ação e plataforma 2D focado em movimentação responsiva, sistema de combate, hitboxes, câmera suave e Dummy de treinamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
